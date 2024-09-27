@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ruebtlep.github.io/sitemap.ruebtlep.gz
+Sitemap: https://ruebtlep.github.io/app/sitemap.ruebtlep.gz
+Sitemap: https://ruebtlep.github.io/assets/sitemap.ruebtlep.gz
+Sitemap: https://ruebtlep.github.io/css/sitemap.ruebtlep.gz
+Sitemap: https://ruebtlep.github.io/data/sitemap.ruebtlep.gz
+Sitemap: https://ruebtlep.github.io/includes/sitemap.ruebtlep.gz
+Sitemap: https://ruebtlep.github.io/item/sitemap.ruebtlep.gz
+Sitemap: https://ruebtlep.github.io/src/sitemap.ruebtlep.gz
